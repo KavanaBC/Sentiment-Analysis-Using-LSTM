@@ -93,7 +93,7 @@ Dense (1 unit, Sigmoid)
 ![Neg_Review](screenshots/Negative_Review.png)
 
 #### 🖼️ Positive Sentiment Detection
-![Pos_Review](screenshots/Positive_Review.png)
+![Pos_Review](screenshots/Postive_Review.png)
 
 ---
 
